@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\imad\TDopencv\rendreexam\Eclate les ballons\Eclate les ballons\main.cpp(47,25): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+D:\imad\TDopencv\rendreexam\Eclate les ballons\Eclate les ballons\main.cpp(109,18): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+D:\imad\TDopencv\rendreexam\Eclate les ballons\Eclate les ballons\main.cpp(110,18): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  Génération de code en cours
+  1 of 152 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Eclate les ballons.vcxproj -> D:\imad\TDopencv\rendreexam\Eclate les ballons\x64\Release\Eclate les ballons.exe
